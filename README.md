@@ -5,7 +5,7 @@ This is a simple and responsive cruds website built using HTML & CSS and js. It 
 
 ## 🌐 Live Demo
 
-[View Website]()
+[View Website](https://albraanawara.github.io/cruds/)
 
 ## 📁 Project Structure
 
